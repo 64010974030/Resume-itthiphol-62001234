@@ -78,12 +78,12 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <h5 class="w3-opacity"><b>Business computer</b></h5>
           <p><b>Nong Kung Srl Vocational College</b>          </p>
           <p>2019-2021</p>
-          <h6 class="w3-text-indigo"><i class="fa fa-calendar fa-fw w3-margin-right"></i>PROFESSIONAL CERTIFICATE</h6>
+          <h6 class="w3-text-indigo"><i class="fa fa-calendar fa-fw w3-margin-right"></i>DIPLOMA</h6>
           <p>BUSINESS COMPUTER BRANCH</p>
           <hr>
         </div>
         <div class="w3-container">
-          <h6 class="w3-text-indigo"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Second-year</h6>
+          <h6 class="w3-text-indigo"><i class="fa fa-calendar fa-fw w3-margin-right"></i>First-year</h6>
           <p>Business Law</p>
           <p>Computer Technology and Operating System</p>
           <p>Data Structure and Algorithms</p>
@@ -93,7 +93,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <hr>
         </div>
         <div class="w3-container">
-          <h6 class="w3-text-indigo"><i class="fa fa-calendar fa-fw w3-margin-right"></i><b>Third-year</b></h6>
+          <h6 class="w3-text-indigo"><i class="fa fa-calendar fa-fw w3-margin-right"></i><b>Second-year</b></h6>
           <p>Production and Operations Management</p>
           <p>Internet Marketing</p>
           <p>Business Data Communication and Computer Network</p>
@@ -102,18 +102,6 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           </p>
         </div>
 
-      <div class="w3-container">
-          <h6 class="w3-text-indigo"><i class="fa fa-calendar fa-fw w3-margin-right"></i><b>Four-year</b></h6>
-          <p>Business Information Technology Management</p>
-          <p>Big Data Analytics</p>
-          <p>Mobile Programming and Wireless Components in Business</p>
-          <p>Applications of Enterprise Resource Planning Software</p>
-          <p>User Experience/User Interface Design and Development</p>
-          <p>Business Policy and Strategic Management</p>
-          <p><br>
-        </p>
-      </div>
-    </div>
       <div class="w3-container w3-card w3-white">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-arrow-up fa-fw w3-margin-right w3-xxlarge w3-text-red"></i>Self-Development</h2>
         <div class="w3-container">
