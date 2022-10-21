@@ -34,7 +34,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-green"></i>Student</p>
           <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-yellow"></i>Maha Sarakham, Thailand</p>
           <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-purple"></i>64010974030	@msu.ac.th</p>
-          <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-red"></i></p>
+          <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-red">0962494041</i></p>
           <hr>
 
           <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-green"></i>Skills</b></p>
@@ -75,15 +75,11 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
       <div class="w3-container w3-card w3-white">
         <h2 class="w3-text-gray w3-padding-16"><i class="fa fa-arrow-down fa-fw w3-margin-right w3-xxlarge w3-text-blue"></i>Education</h2>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>Business Information Technology</b></h5>
-          <p><b>Mahasarakham University</b>          </p>
-          <p>2019-Present</p>
-          <h6 class="w3-text-indigo"><i class="fa fa-calendar fa-fw w3-margin-right"></i>First-year</h6>
-          <p>Introduction to Business</p>
-          <p>Principles of Marketing</p>
-          <p>Business Computer and Information Technology</p>
-          <p>Introduction to Computer Programming in Business</p>
-          <p>Principles of Accounting</p>
+          <h5 class="w3-opacity"><b>Business computer</b></h5>
+          <p><b>Nong Kung Srl Vocational College</b>          </p>
+          <p>2019-2021</p>
+          <h6 class="w3-text-indigo"><i class="fa fa-calendar fa-fw w3-margin-right"></i>PROFESSIONAL CERTIFICATE</h6>
+          <p>BUSINESS COMPUTER BRANCH</p>
           <hr>
         </div>
         <div class="w3-container">
