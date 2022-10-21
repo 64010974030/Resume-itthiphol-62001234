@@ -33,7 +33,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <p><i class="fa fa-person fa-fw w3-margin-right w3-large w3-text-red"></i><b>Thiwa Sinthukoot</b></p>
           <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-green"></i>Student</p>
           <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-yellow"></i>Maha Sarakham, Thailand</p>
-          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-purple"></i>64010974030	@msu.ac.th</p>
+          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-purple"></i>64010974030@msu.ac.th</p>
           <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-red"></i>0962494041</p>
           <hr>
 
