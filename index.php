@@ -24,7 +24,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     
       <div class="w3-black w3-text-white w3-card-4">
         <div class="w3-display-container">
-          <img src="https://mahasarakham-my.sharepoint.com/:i:/r/personal/62010914602_o365_msu_ac_th/Documents/IMG_0476.jpg?csf=1&web=1&e=Rgv0Ax" style="width:100%;" alt="pictures">
+          <img src="https://scontent.fkkc1-1.fna.fbcdn.net/v/t39.30808-6/188335836_1226827311071301_8889043229866957858_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=174925&_nc_eui2=AeHU3gKp2Mt3eICRPUlCcvvkyAcOwMhMZXHIBw7AyExlccer5Neh1wSAZwCT7ZYNPJ5MeBYSMhcE0Ydv9Z0J-eLk&_nc_ohc=GBEpfJoMJz4AX8MiGiv&_nc_ht=scontent.fkkc1-1.fna&oh=00_AT9p7u1UxaKU4UJ7FseHFuBUQX7j_G72GEXSPekWAye1pg&oe=6357295D" style="width:100%;" alt="pictures">
           <div class="w3-display-bottomleft w3-container w3-text-black">
            
           </div>
@@ -38,19 +38,19 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <hr>
 
           <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-green"></i>Skills</b></p>
-          <p>Microsoft Excel</p>
+          <p>Photoshop</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-blue" style="width:80%">80%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-blue" style="width:90%">90%</div>
           </div>
           <p>Microsoft Word</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-blue" style="width:60%">
-              <div class="w3-center w3-text-white">60%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-blue" style="width:80%">
+              <div class="w3-center w3-text-white">80%</div>
             </div>
           </div>
           <p>Python</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-blue" style="width:30%">30%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-blue" style="width:60%">60%</div>
           </div>
           <br>
 
@@ -62,11 +62,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <p>English</p>
           <div class="w3-light-grey w3-round-xlarge">
             <div class="w3-round-xlarge w3-center w3-red" style="height:24px;width:80%">80%</div>
-          </div>
-          <p>Chinese</p>
-          <div class="w3-light-grey w3-round-xlarge">
-            <div class="w3-round-xlarge w3-center w3-red" style="height:24px;width:20%">20%</div>
-          </div>
+          </div> 
           <br>
         </div>
       </div><br>
